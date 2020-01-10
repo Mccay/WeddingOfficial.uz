@@ -1,0 +1,15 @@
+.body{
+}
+.photo{
+	position:relative;
+	width: 200px;
+	top: 150;
+	left:520;
+   -webkit-transform: rotate(-30deg);
+}
+.photo1{
+	position:relative;
+	width: 200px;
+	top:20;
+	left:520;
+}
